@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "convert_invoice",
+    'name': "vit-convert-invoice",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
@@ -10,8 +10,8 @@
         Long description of module's purpose
     """,
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "ViTraining",
+    'website': "http://www.ViTraining.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/12.0/odoo/addons/base/data/ir_module_category_data.xml
